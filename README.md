@@ -4,7 +4,7 @@ A Python-based automation workflow to streamline the process of preparing produc
 
 ## 🚀 Project Overview
 
-This automation tool processes the daily eBay unlisted report (Excel file) and performs all necessary transformations to make products ready for listing on eBay, following Focus Camera's established business rules.
+This automation tool processes the daily eBay unlisted report (Excel file) and performs all necessary transformations to make products ready for listing on eBay, following established business rules.
 
 The workflow handles:
 - Data cleaning and validation
